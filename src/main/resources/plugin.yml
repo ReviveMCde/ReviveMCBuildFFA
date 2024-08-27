@@ -1,0 +1,7 @@
+name: ReviveMCBuildFFA
+author: leTobiCW
+version: 1.0
+main: de.revivemc.buildffa.BuildFFA
+commands:
+  setspawn:
+  stats:
